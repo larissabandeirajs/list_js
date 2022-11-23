@@ -1,2 +1,3 @@
-# list_js
-lista de tarefas 
+# Lista de tarefas 
+
+Lista de tarefas desenvolvida em javascript
